@@ -1,4 +1,4 @@
-Cómo funciona el botón “Editar”
+# Cómo funciona el botón “Editar”
 
 El botón Editar permite modificar un usuario sin recargar la página.
 
