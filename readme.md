@@ -17,3 +17,4 @@ Se cambia el botón a “Actualizar usuario” y el título del formulario a “
 Guardar cambios: Al enviar el formulario, los datos actualizados se envían al servidor y la tabla se refresca automáticamente.
 
 https://github.com/T00MMYY/mini_crud_ajax.git
+
